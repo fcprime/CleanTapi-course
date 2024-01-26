@@ -352,6 +352,10 @@ body {
   }
 }
 
+.footer__link-number {
+  color: #2e6d45;
+}
+
 .footer__link-img {
   width: 28px;
   height: 28px;
