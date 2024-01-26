@@ -432,11 +432,10 @@ body {
     gap: 20px;
   }
 
-  .footer__link-tel {
-    span {
-      display: block;
-      font-size: 24px;
-    }
+  .footer__link-tel span {
+    display: block;
+    font-size: 24px;
+    color: #2e6d45;
   }
 }
 
